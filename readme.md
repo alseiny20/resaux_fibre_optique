@@ -31,13 +31,13 @@
 
 - Optimal solution       174.891958237
 
-ville 1 vers 2
-ville 2 vers 3
-ville 3 vers 4
-ville 4 vers 9
-ville 9 vers 10
-ville 10 vers 8
-ville 8 vers 7
-ville 7 vers 6
-ville 6 vers 5
-ville 5 vers 1
+- ville 1 vers 2
+- ville 2 vers 3
+- ville 3 vers 4
+- ville 4 vers 9
+- ville 9 vers 10
+- ville 10 vers 8
+- ville 8 vers 7
+- ville 7 vers 6
+- ville 6 vers 5
+- ville 5 vers 1
