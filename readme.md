@@ -4,7 +4,7 @@
 - Elhadj Alseiny DIALLO     22011830 -> implémentation resolution
 - Mamadou Alpha DIALLO      22107614 -> représentation sous format png avec l'outils dot
 
-Modélisation :
+## Modélisation :
 1. le sens des variables Xij:
        Xij est un boolean qui représente si oui ou non une ville i est connectée avec une ville J 
 2. le sens des variables Ui:
@@ -27,9 +27,9 @@ Modélisation :
     Sens d'optimisation : minimisation
 
 
-RESULTAT D'OPTIMISATION 
+## RESULTAT D'OPTIMISATION 
 
-Optimal solution       174.891958237
+- Optimal solution       174.891958237
 
 ville 1 vers 2
 ville 2 vers 3
