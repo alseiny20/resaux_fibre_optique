@@ -1,8 +1,7 @@
 ## Membres du groupe:
 - Abdoulaye Djibril DIALLO  22112788 -> Lecture du fichier et formules pour les coordonnées xij dans row[]
 - Mamady DJIGUINE           22110369 -> Interprétation de la Modélisation	
-- Elhadj Alseiny DIALLO     22011830 -> implémentation resolution
-- Mamadou Alpha DIALLO      22107614 -> représentation sous format png avec l'outils dot
+- Elhadj Alseiny DIALLO     22011830 -> implémentation, resolution et représentation sous format png avec l'outils dot
 
 ## Modélisation :
 1. le sens des variables Xij:
